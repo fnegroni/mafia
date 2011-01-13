@@ -1,0 +1,11 @@
+Mafia, file protector
+=====================
+
+Mafia is a file protection tool for Linux.
+
+It uses the file system notification mechanism available in Linux since version 2.6, and makes use of Git to provide secure storage and safe file replacement.
+
+Mafia protects you
+------------------
+
+
